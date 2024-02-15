@@ -5,4 +5,4 @@
 ### 使用言語
 
 HTML, CSS, JavaScript, Bootstrapになります。
-HTML, CSSで直接書かずに、JavaScriptでDOM操作をして動的なWEBページを作成しました。
+HTML, CSSで直接書かずに、JavaScriptでDOM操作をしてWEBページを作成しました。
