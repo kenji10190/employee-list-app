@@ -9,8 +9,7 @@ HTML, CSSで直接書かずに、JavaScriptでDOM操作をしてWEBページを�
 
 ### 参考資料  
 
-Recursionという学習サイトの課題の一つとして作成しました。
-(Recursion)[https://recursionist.io/]
+[Recursion](https://recursionist.io/)というコンピュータサイエンス学習サイトの課題の一つとして作成しました。
 
 ### ページの内容
 
